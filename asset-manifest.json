@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hackelevate.getsocialnow.social/static/css/main.2f560cd0.css",
-    "main.js": "/hackelevate.getsocialnow.social/static/js/main.d8c30f82.js",
-    "static/js/787.d1384e13.chunk.js": "/hackelevate.getsocialnow.social/static/js/787.d1384e13.chunk.js",
-    "index.html": "/hackelevate.getsocialnow.social/index.html",
-    "main.2f560cd0.css.map": "/hackelevate.getsocialnow.social/static/css/main.2f560cd0.css.map",
-    "main.d8c30f82.js.map": "/hackelevate.getsocialnow.social/static/js/main.d8c30f82.js.map",
-    "787.d1384e13.chunk.js.map": "/hackelevate.getsocialnow.social/static/js/787.d1384e13.chunk.js.map"
+    "main.css": "/static/css/main.2f560cd0.css",
+    "main.js": "/static/js/main.30f11c8b.js",
+    "static/js/787.d1384e13.chunk.js": "/static/js/787.d1384e13.chunk.js",
+    "index.html": "/index.html",
+    "main.2f560cd0.css.map": "/static/css/main.2f560cd0.css.map",
+    "main.30f11c8b.js.map": "/static/js/main.30f11c8b.js.map",
+    "787.d1384e13.chunk.js.map": "/static/js/787.d1384e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f560cd0.css",
-    "static/js/main.d8c30f82.js"
+    "static/js/main.30f11c8b.js"
   ]
 }
