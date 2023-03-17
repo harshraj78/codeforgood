@@ -68,6 +68,12 @@ class Home extends Component {
                         <div className="header-logo">
                             <img src="./img/cr2.png" />
                         </div>
+                        <div style={{display: "flex",justifyContent: "center",alignItems: "center"}}>
+                            <Devfoliobutton ></Devfoliobutton>
+                        </div>
+
+
+
                     </div>
                 </header>
                 {/* body */}
