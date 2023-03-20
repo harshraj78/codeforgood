@@ -1,7 +1,7 @@
 export const registerItems = [
     {
         cardTitle: "Participant",
-        cardText: `Date: 1st April | Venue: TBD`,
+        cardText: `Date: 29-30th April | Venue: TBD`,
         applyLink: "",
         applyStatus:"Register",
         slug: ""
