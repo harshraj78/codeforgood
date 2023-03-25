@@ -64,10 +64,11 @@ class Home extends Component {
 
                 <header className="header">
                     <div className="header-content">
-                        <h1>codeforgood</h1>
                         <div className="header-logo">
-                            <img src="./img/cr2.png" />
+                            <img alt="codeforgood" src="./img/cfg2.png" />
                         </div>
+                        
+                        <h1>CodeForGood</h1>
                         <div className="Dev-Home">
                             <Devfoliobutton></Devfoliobutton>
                         </div>

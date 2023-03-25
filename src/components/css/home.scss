@@ -7,11 +7,13 @@
   --winter-background: #f8f9fa;
   --winter-border: #e8eaed;
   --winter-w1: #eceef1;
-  --winter-w2: #006fbd;
+  // --winter-w2: #006fbd;
+  --winter-w2: #0B0C10;
   --winter-w3: #8a9c9b;
   --winter-w4: #acc4d4;
   --winter-w5: #d3e4e3;
-  --winter-link: #7ad9fe;
+  // --winter-link: #7ad9fe;
+  --winter-link: #4F46E7;
   --winter-hover: rgba(158, 158, 158, 0.2);
   --logo-l1: #f7931e;
   --logo-l2: #0094ff;
@@ -90,7 +92,8 @@
 
 .header-content {
   justify-content: center;
-  color: #fff;
+  // color: #fff;
+  color: #4F46E7;
   width: 100%;
   padding: 9rem 7rem 11rem;
 
@@ -105,12 +108,13 @@
     display: flex;
     justify-content: center;
     align-Items: center;
+    margin-top: 50px;
   }
 }
 
 .header-logo {
   width: 100%;
-  padding-top: 2rem;
+  padding-top: 0rem;
   display: flex;
   justify-content: center;
   img {
