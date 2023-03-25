@@ -15,7 +15,6 @@ import Aos from 'aos';
 import 'aos/dist/aos.css'
 import Home from './home';
 
-
 class Index extends Component {
 
     constructor(props) {
