@@ -96,7 +96,7 @@ class Home extends Component {
                         </p>
                         <p>
                             From technical workshops and mentor sessions to networking events and competitions, there's something 
-                            for everyone at Code Rush.
+                            for everyone at CodeForGood.
                         </p>
                     </div>
                     <div className="about-vector">

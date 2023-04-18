@@ -16,7 +16,7 @@ function Devfoliobutton() {
   return (
     <div
         className="apply-button"
-        data-hackathon-slug="codeforgood"
+        data-hackathon-slug="hackelevate"
         data-button-theme="light"
     ></div>
   )
